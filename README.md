@@ -1,0 +1,2 @@
+# elections
+Symulation of elections
